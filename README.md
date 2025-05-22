@@ -1,10 +1,10 @@
 ﻿# Credit Card Customers
 ## Dataset Report 
 ## 5.3. Plots 
-This repository includes data from a credit card dataset (`BankChurners.csv`) for the purpose of data visualization.  
+This git repository includes data from a credit card customers dataset (`BankChurners.csv`) for the purpose of visualization.  
 ### Features
 - a script to explore the relationship between credit limits and transaction amounts
-- thus: a scatter plot and boxplot to visualize the analysis
+- thus: scatter plot and boxplot 
 - descriptive stats and Pearson 
 ### Prerequisites
 Python libraries:
